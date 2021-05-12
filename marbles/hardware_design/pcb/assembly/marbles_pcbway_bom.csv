@@ -1,0 +1,42 @@
+Line #,Quantity,Designator,Value,Description,Package,Type,Manufacturer,Mfg Part #
+1,2,"R1, R5",39,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+2,4,"R2, R3, R7, R8",100,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+3,6,"R6, R22, R23, R55, R56, R67",10k,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+4,5,"R10, R12, R17, R18, R36",1.5k,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+5,4,"R9, R11, R15, R19",2.2k,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+6,18,"R24, R25, R26, R27, R32, R33, R34, R35, R43, R44, R60, R61, R64, R65, R66, R73, R76, R77",100k,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+7,7,"R28, R29, R30, R31, R70, R71, R72",200k,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+8,7,"R39, R40, R41, R42, R57, R58, R59",33k,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+9,7,"R45, R46, R62, R63, R85, R86, R87",1.0k,"Metal Film Resistor, <=1%, >=200mW",0603,SMD,any,any
+10,4,"R47, R48, R53, R54",23.7k,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+11,3,"R49, R50, R75",39k,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+12,3,"R51, R52, R69",56k,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+13,1,R68,1.0k,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+14,1,R74,150k,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+15,4,"R78, R79, R80, R81",680,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+16,3,"R82, R83, R84",180,"Metal Film Resistor, <=1%, >=100mW",0402,SMD,any,any
+17,24,"C1, C7, C8, C9, C12, C13, C16, C17, C18, C19, C21, C24, C26, C28, C29, C36, C37, C38, C39, C46, C47, C48, C49, C50",100n,"Capacitor, ceramic, >= 25V, X5R",0402,SMD,Murata,any
+18,5,"C2, C11, C22, C23, C27",22u,"Capacitor, electrolytic, >= 25V",5mm (Panasonic C),SMD,Panasonic,EEE-FP1V220AR
+19,3,"C3, C5, C14",22u,"Capacitor, ceramic, >= 25V, X5R",1206,SMD,Murata,any
+20,2,"C4, C6",20p,"Capacitor, ceramic, >=25V, C0G, <= 5%",0402,SMD,Murata,any
+21,3,"C10, C15, C20",2.2u,"Capacitor, ceramic, >= 25V, X5R",0805,SMD,Murata,any
+22,3,"C25, C51, C52",470n,"Capacitor, ceramic, >= 25V, X5R",0402,SMD,Murata,any
+23,5,"C30, C32, C33, C40, C42",4.7n,"Capacitor, ceramic, >= 50V, X7R, <= 10%",0402,SMD,Murata,any
+24,2,"C31, C41",470p,"Capacitor, ceramic, >= 25V, C0G, <= 5%",0402,SMD,Murata,any
+25,4,"C34, C35, C43, C44",47p,"Capacitor, ceramic, >= 25V, C0G, <= 5%",0402,SMD,Murata,any
+26,7,"C45, C53, C54, C55, C56, C57, C58",-,Ceradiode,0603,SMD,Epcos / TDK ,B72500D160H60
+27,1,L1,33u,Inductor,0805,SMD,TDK,MLZ2012M330WT000
+28,3,"L2, L3, L4",-,"EMI Filter Bead, >= 1k ohm, 300mA",0603,SMD,Würth Electronics,742792664
+29,2,"D1, D2",1N5819HW,Diode,SOD123,SMD,any,any
+30,1,D3,BAT54SLT1G,Diode,SOT23,SMD,any,any
+31,2,"D4, D5",1N4148,Diode,SOD523,SMD,any,any
+32,1,IC2,STM32F405RGT6,Microcontroller,TQFP64,SMD,STMicroelectronics ,STM32F405RGT6
+33,1,IC3,LD2981ABU33,LDO regulator,SOT89-3,SMD,STMicroelectronics ,any
+34,1,IC4,DAC8164IDPW,Digital to Analog Converter,TSSOP16,SMD,Texas Instruments,DAC8164IDPW
+35,2,"IC5, IC6",MCP6004,Quad op-amp R2R IO,TSSOP14,SMD,Microchip Technology,any
+36,1,IC7,OPA4171,Quad op-amp R2R IO,TSSOP14,SMD,Texas Instruments,OPA4171AIPW
+37,1,IC8,LM4040,"Shunt Vref, C grade, 0.5%, 100ppm",SOT23,SMD,Texas Instruments,LM4040C10IDBZ
+38,1,IC9,LM324,Quad op-amp,TSSOP14,SMD,Texas Instruments,any
+39,1,IC10,TL074,Quad op-amp,TSSOP14,SMD,Texas Instruments,any
+40,1,Q1,8MHz,Crystal <= 20ppm,6mm x 3.6mm,SMD,any,any
+41,2,"Q2, Q3",MMBT3904,NPN transistor,SOT23,SMD,any,any
